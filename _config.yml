@@ -10,8 +10,8 @@ locale: 'en-US'
 title: 'Stephanie Droop'
 title_separator: '-'
 name: &name 'Stephanie Droop'
-description: &description 'PhD student in Natural Language Processing'
-url: https://stephaniedroop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description: &description 'PhD student in cognitive science, funded in Natural Language Processing'
+url: https://stephaniedroop.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: '' # the subpath of your site, e.g. "/blog"
 repository: 'stephaniedroop/stephaniedroop.github.io'
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
