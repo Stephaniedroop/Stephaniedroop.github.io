@@ -1,7 +1,7 @@
 ---
 title: 'Extending counterfactual reasoning models to capture unconstrained social explanations'
 collection: publications
-permalink: /publication/icml2023
+permalink: /publications/icml2023
 excerpt: 'We extend a counterfactual account of explanation to capture how people generate free explanations for someone's behaviour across a set of scenarios.'
 date: 2023-07-29
 venue: 'ICML (International Conference on Machine Learning) Workshop on Counterfactuals in Minds and Machines, Honolulu 2023'
