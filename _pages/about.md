@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Steph. Thanks for stopping by. This page is under construction at October 2023 so check back soon if there's someting you'd like to see.
 
-![Recent long run from my house](scene.jpg 'nice wee placeholder pic')
+![](scene.jpg 'nice wee placeholder pic')
 
 My research is in _computational cognitive science_ which I like to explain as _doing psychology with the help of computer programs_.
 
