@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Steph. Thanks for stopping by. This page is under construction at October 2023 so check back soon if there's something missing.
+Hi, I'm Steph. Thanks for stopping by.
 
 ![image](images/scene.jpg 'nice wee placeholder pic')
 
