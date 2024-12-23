@@ -15,7 +15,7 @@ Now I'm looking for an application for my causal modelling skills. I'm happy to 
 
 I'm looking to join a start-up or other company for one day a week, starting in January 2025, and ll be looking for a new job in September 2025. If you have any ideas I'd love to hear from you.
 
-[Get CV here](http://stephaniedroop.github.io/files/SD_CV_Dec24skills.pdf)
+[Get full CV here](http://stephaniedroop.github.io/files/SD_CV_Dec24skills.pdf). Highlights include:
 
 # Education
 
