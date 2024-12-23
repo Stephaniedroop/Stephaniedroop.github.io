@@ -2,10 +2,9 @@
 title: 'Selective imitation on the basis of reward function similarity'
 collection: publications
 permalink: /publications/cogsci2023
-excerpt: 'We explore the hypothesis that decisions about who to learn from involve inferences about other agents' reward functions.'
+excerpt: "We explore the hypothesis that decisions about who to learn from involve inferences about other agents' reward functions."
 date: 2023-07-28
 venue: 'Proceedings of the 45th Annual Meeting of the Cognitive Science Society'
-# paperurl: 'http://stephaniedroop.github.io/files/cogsci2022.pdf'
 
 citation: 'Max Taylor-Davies, Stephanie Droop & Christopher G. Lucas. (2023). &quot;Selective imitation on the basis of reward function similarity.&quot; <i>Proceedings of the 45th Annual Meeting of the Cognitive Science Society</i>.'
 ---
